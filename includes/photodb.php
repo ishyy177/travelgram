@@ -5,7 +5,7 @@
 
 $servername = "localhost";
 $dbusername = "root";
-$dbpassword = "root";
+$dbpassword = "";
 $dbname = "photos";
 
 $conn = mysqli_connect($servername, $dbusername, $dbpassword, $dbname);
